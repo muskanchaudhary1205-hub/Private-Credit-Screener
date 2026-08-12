@@ -12,6 +12,9 @@ I built this to replicate the screening workflow I actually ran at **GetVantage*
 
 Every number in the sample data is cited in [`SOURCES.md`](./SOURCES.md), including the fields I couldn't verify and left blank on purpose, and the pillars I judged inapplicable rather than forced.
 
+**Sample memos:**
+[Pennylane](sample_output/pennylane_credit_memo.pdf) · [Younited Financial](sample_output/younited_financial_credit_memo.pdf) · [Made.com](sample_output/made.com_credit_memo.pdf)
+
 ---
 
 ## The problem this is actually solving
